@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T07:23:03.612055",
+  "generated_at": "2026-06-06T09:34:56.899304",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -431,6 +431,51 @@
           "zone": 2,
           "training_load": 3.053824,
           "decoupling": 3.6414006
+        }
+      ]
+    },
+    {
+      "activity_id": "i154737095",
+      "date": "2026-06-06",
+      "type": "Run",
+      "name": "10km E with Run East",
+      "interval_summary": [
+        "1x 1h17m 7:46",
+        "1x 6m14s 7:33"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "4663s@145w88rpm",
+          "duration_secs": 4663,
+          "avg_power": 145,
+          "max_power": 231,
+          "avg_hr": 162,
+          "max_hr": 173,
+          "avg_cadence": 87.60266,
+          "zone": 2,
+          "training_load": 54.831726,
+          "decoupling": 3.3272173
+        },
+        {
+          "type": "WORK",
+          "label": "374s@149w89rpm",
+          "duration_secs": 374,
+          "avg_power": 149,
+          "max_power": 168,
+          "avg_hr": 163,
+          "max_hr": 169,
+          "avg_cadence": 88.59893,
+          "zone": 2,
+          "training_load": 4.5362806,
+          "decoupling": -1.2606691
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 166,
+          "max_hr": 166,
+          "zone": 2
         }
       ]
     }
