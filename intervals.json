@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T23:55:57.026974",
+  "generated_at": "2026-06-15T05:12:03.177470",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -209,32 +209,6 @@
           "zone": 2,
           "training_load": 0.041064255,
           "decoupling": -0.73260075
-        }
-      ]
-    },
-    {
-      "activity_id": "i152959729",
-      "date": "2026-05-31",
-      "type": "Ride",
-      "name": "Low Impact Cross-Training II",
-      "interval_summary": [
-        "1x 20m1s 138bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1201s@138bpm",
-          "duration_secs": 1201,
-          "avg_hr": 138,
-          "max_hr": 147,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 9,
-          "avg_hr": 141,
-          "max_hr": 144,
-          "zone": 1
         }
       ]
     },
