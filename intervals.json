@@ -1,55 +1,10 @@
 {
-  "generated_at": "2026-07-11T22:59:40.176118",
+  "generated_at": "2026-07-12T00:04:55.605857",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i160673690",
-      "date": "2026-06-27",
-      "type": "Run",
-      "name": "45 min L run",
-      "interval_summary": [
-        "1x 43m17s 7:13",
-        "1x 1m52s 7:17"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2597s@155w87rpm",
-          "duration_secs": 2597,
-          "avg_power": 155,
-          "max_power": 201,
-          "avg_hr": 157,
-          "max_hr": 169,
-          "avg_cadence": 87.26353,
-          "zone": 2,
-          "training_load": 34.003998,
-          "decoupling": 3.7557206
-        },
-        {
-          "type": "WORK",
-          "label": "112s@155w87rpm",
-          "duration_secs": 112,
-          "avg_power": 155,
-          "max_power": 158,
-          "avg_hr": 164,
-          "max_hr": 167,
-          "avg_cadence": 86.84821,
-          "zone": 2,
-          "training_load": 1.4882063,
-          "decoupling": -1.6449226
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 163,
-          "max_hr": 163,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i161305257",
       "date": "2026-06-29",
