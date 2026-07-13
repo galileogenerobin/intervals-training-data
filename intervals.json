@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T04:03:14.568611",
+  "generated_at": "2026-07-13T07:40:39.737226",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -366,6 +366,27 @@
           "zone": 2,
           "training_load": 2.4592927,
           "decoupling": -4.6413174
+        }
+      ]
+    },
+    {
+      "activity_id": "i165199386",
+      "date": "2026-07-13",
+      "type": "Run",
+      "name": "40m E",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2404,
+          "avg_power": 151,
+          "max_power": 179,
+          "avg_hr": 159,
+          "max_hr": 172,
+          "avg_cadence": 87.75646,
+          "zone": 2,
+          "training_load": 30.248001,
+          "decoupling": 0.8281475
         }
       ]
     }
