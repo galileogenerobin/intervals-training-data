@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T06:34:03.972016",
+  "generated_at": "2026-07-21T09:16:32.304376",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -461,6 +461,27 @@
           "zone": 4,
           "training_load": 7.111685,
           "decoupling": -8.400339
+        }
+      ]
+    },
+    {
+      "activity_id": "i167640699",
+      "date": "2026-07-21",
+      "type": "Run",
+      "name": "30 min E run",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1803,
+          "avg_power": 149,
+          "max_power": 179,
+          "avg_hr": 164,
+          "max_hr": 173,
+          "avg_cadence": 86.349106,
+          "zone": 2,
+          "training_load": 22.013813,
+          "decoupling": 1.2225406
         }
       ]
     }
