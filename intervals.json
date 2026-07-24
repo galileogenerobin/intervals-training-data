@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:49:16.527857",
+  "generated_at": "2026-07-24T13:55:44.351010",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -445,6 +445,44 @@
           "zone": 2,
           "training_load": 0.021131575,
           "decoupling": -2.1126761
+        }
+      ]
+    },
+    {
+      "activity_id": "i168803877",
+      "date": "2026-07-24",
+      "type": "Run",
+      "name": "20m E",
+      "interval_summary": [
+        "1x 20m1s 8:06",
+        "1x 15s 7:37"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1201s@131w85rpm",
+          "duration_secs": 1201,
+          "avg_power": 131,
+          "max_power": 190,
+          "avg_hr": 150,
+          "max_hr": 162,
+          "avg_cadence": 85.17391,
+          "zone": 2,
+          "training_load": 11.347391,
+          "decoupling": 8.859063
+        },
+        {
+          "type": "WORK",
+          "label": "15s@135w84rpm",
+          "duration_secs": 15,
+          "avg_power": 135,
+          "max_power": 149,
+          "avg_hr": 156,
+          "max_hr": 158,
+          "avg_cadence": 83.78571,
+          "zone": 2,
+          "training_load": 0.13349871,
+          "decoupling": -3.8791444
         }
       ]
     }
