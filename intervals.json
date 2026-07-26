@@ -1,48 +1,10 @@
 {
-  "generated_at": "2026-07-25T23:44:29.516491",
+  "generated_at": "2026-07-26T01:17:29.749929",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i164681249",
-      "date": "2026-07-11",
-      "type": "Run",
-      "name": "Long Base: 11km Easy Run",
-      "interval_summary": [
-        "1x 1h24m 7:33",
-        "1x 2m57s 6:56"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "5051s@146w85rpm",
-          "duration_secs": 5051,
-          "avg_power": 146,
-          "max_power": 201,
-          "avg_hr": 157,
-          "max_hr": 174,
-          "avg_cadence": 85.35696,
-          "zone": 2,
-          "training_load": 59.782516,
-          "decoupling": -1.3486905
-        },
-        {
-          "type": "WORK",
-          "label": "177s@160w89rpm",
-          "duration_secs": 177,
-          "avg_power": 160,
-          "max_power": 180,
-          "avg_hr": 169,
-          "max_hr": 173,
-          "avg_cadence": 88.55114,
-          "zone": 2,
-          "training_load": 2.4592927,
-          "decoupling": -4.6413174
-        }
-      ]
-    },
     {
       "activity_id": "i165199386",
       "date": "2026-07-13",
