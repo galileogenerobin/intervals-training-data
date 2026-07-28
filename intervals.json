@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-07-27T23:08:43.601958",
+  "generated_at": "2026-07-28T00:11:52.082088",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i165199386",
-      "date": "2026-07-13",
-      "type": "Run",
-      "name": "40m E",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2404,
-          "avg_power": 151,
-          "max_power": 179,
-          "avg_hr": 159,
-          "max_hr": 172,
-          "avg_cadence": 87.75646,
-          "zone": 2,
-          "training_load": 30.248001,
-          "decoupling": 0.8281475
-        }
-      ]
-    },
     {
       "activity_id": "i165862563",
       "date": "2026-07-15",
