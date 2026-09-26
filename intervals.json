@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:02:19.505141",
+  "generated_at": "2026-09-26T09:54:07.072507",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -551,6 +551,134 @@
           "zone": 2,
           "training_load": 4.77,
           "decoupling": 17.30972
+        }
+      ]
+    },
+    {
+      "activity_id": "i190479924",
+      "date": "2026-09-26",
+      "type": "Run",
+      "name": "5km E return",
+      "interval_summary": [
+        "5x 7m7s 7:07",
+        "1x 20s 7:24"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "427s@149w89rpm",
+          "duration_secs": 428,
+          "avg_power": 146,
+          "max_power": 169,
+          "avg_hr": 163,
+          "max_hr": 172,
+          "avg_cadence": 90.33097,
+          "zone": 2,
+          "training_load": 5.518794,
+          "decoupling": 7.5959496
+        },
+        {
+          "type": "WORK",
+          "label": "427s@149w89rpm",
+          "duration_secs": 425,
+          "avg_power": 150,
+          "max_power": 179,
+          "avg_hr": 169,
+          "max_hr": 173,
+          "avg_cadence": 89.0,
+          "zone": 2,
+          "training_load": 5.7463493,
+          "decoupling": -2.569244
+        },
+        {
+          "type": "WORK",
+          "label": "427s@149w89rpm",
+          "duration_secs": 429,
+          "avg_power": 148,
+          "max_power": 178,
+          "avg_hr": 171,
+          "max_hr": 174,
+          "avg_cadence": 88.84149,
+          "zone": 2,
+          "training_load": 5.7233515,
+          "decoupling": 2.7555137
+        },
+        {
+          "type": "WORK",
+          "label": "427s@149w89rpm",
+          "duration_secs": 425,
+          "avg_power": 152,
+          "max_power": 171,
+          "avg_hr": 172,
+          "max_hr": 176,
+          "avg_cadence": 88.715294,
+          "zone": 2,
+          "training_load": 5.978502,
+          "decoupling": 4.3624907
+        },
+        {
+          "type": "WORK",
+          "label": "427s@149w89rpm",
+          "duration_secs": 428,
+          "avg_power": 147,
+          "max_power": 163,
+          "avg_hr": 168,
+          "max_hr": 174,
+          "avg_cadence": 88.39486,
+          "zone": 2,
+          "training_load": 5.633623,
+          "decoupling": -4.9384184
+        },
+        {
+          "type": "WORK",
+          "label": "20s@152w88rpm",
+          "duration_secs": 20,
+          "avg_power": 152,
+          "max_power": 162,
+          "avg_hr": 170,
+          "max_hr": 171,
+          "avg_cadence": 88.3,
+          "zone": 2,
+          "training_load": 0.2668229,
+          "decoupling": -7.8317637
+        }
+      ]
+    },
+    {
+      "activity_id": "i190479919",
+      "date": "2026-09-26",
+      "type": "Run",
+      "name": "Morning Run",
+      "interval_summary": [
+        "1x 6m58s 6:59",
+        "1x 4m10s 6:26"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "418s@148w88rpm",
+          "duration_secs": 418,
+          "avg_power": 148,
+          "max_power": 185,
+          "avg_hr": 160,
+          "max_hr": 173,
+          "avg_cadence": 87.93188,
+          "zone": 2,
+          "training_load": 5.5705786,
+          "decoupling": 6.575123
+        },
+        {
+          "type": "WORK",
+          "label": "250s@151w88rpm",
+          "duration_secs": 250,
+          "avg_power": 151,
+          "max_power": 186,
+          "avg_hr": 174,
+          "max_hr": 183,
+          "avg_cadence": 87.72289,
+          "zone": 3,
+          "training_load": 3.5026987,
+          "decoupling": -11.929244
         }
       ]
     }
