@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:33:03.278784",
+  "generated_at": "2026-10-09T19:49:08.587190",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -130,6 +130,76 @@
           "zone": 3,
           "training_load": 3.5026987,
           "decoupling": -11.929244
+        }
+      ]
+    },
+    {
+      "activity_id": "i195508634",
+      "date": "2026-10-09",
+      "type": "Run",
+      "name": "4km E run",
+      "interval_summary": [
+        "4x 7m3s 7:08"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "423s@153w87rpm",
+          "duration_secs": 441,
+          "avg_power": 147,
+          "max_power": 201,
+          "avg_hr": 149,
+          "max_hr": 159,
+          "avg_cadence": 88.32798,
+          "zone": 2,
+          "training_load": 5.687604,
+          "decoupling": 3.767002
+        },
+        {
+          "type": "WORK",
+          "label": "423s@153w87rpm",
+          "duration_secs": 422,
+          "avg_power": 151,
+          "max_power": 175,
+          "avg_hr": 158,
+          "max_hr": 165,
+          "avg_cadence": 87.58057,
+          "zone": 2,
+          "training_load": 5.8589554,
+          "decoupling": 0.9811951
+        },
+        {
+          "type": "WORK",
+          "label": "423s@153w87rpm",
+          "duration_secs": 429,
+          "avg_power": 151,
+          "max_power": 166,
+          "avg_hr": 163,
+          "max_hr": 168,
+          "avg_cadence": 86.85548,
+          "zone": 2,
+          "training_load": 5.8780293,
+          "decoupling": -2.9681265
+        },
+        {
+          "type": "WORK",
+          "label": "423s@153w87rpm",
+          "duration_secs": 399,
+          "avg_power": 164,
+          "max_power": 194,
+          "avg_hr": 167,
+          "max_hr": 173,
+          "avg_cadence": 86.85714,
+          "zone": 2,
+          "training_load": 6.4488335,
+          "decoupling": -4.081548
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 170,
+          "max_hr": 170,
+          "zone": 2
         }
       ]
     }
