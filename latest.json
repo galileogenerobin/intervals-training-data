@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-18T10:52:17.627398",
+    "last_updated": "2026-10-18T14:23:43.933086",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -273,9 +273,9 @@
           "ftp_indoor": null
         },
         "run": {
-          "lthr": 193,
+          "lthr": 194,
           "max_hr": 205,
-          "threshold_pace": 3.125,
+          "threshold_pace": 3.4482758,
           "pace_units": "MINS_KM",
           "ftp": 225,
           "ftp_indoor": null
@@ -320,7 +320,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 75,
+      "steps": 13177,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -594,7 +594,7 @@
     "p_max": 159,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-18T10:52:17.626575",
+    "calculation_timestamp": "2026-10-18T14:23:43.931841",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -612,7 +612,7 @@
       "id": "i198609016",
       "date": "2026-10-18T11:26:37",
       "type": "Run",
-      "name": "Lunch Run",
+      "name": "Centra 5K 2026",
       "duration_hours": 0.39,
       "distance_km": 5.06,
       "tss": 42,
@@ -661,8 +661,8 @@
         }
       },
       "feel": null,
-      "rpe": null,
-      "effort_response": null,
+      "rpe": 10,
+      "effort_response": "negative",
       "zone_distribution": {
         "hr_zones": {
           "z1_time": 18,
@@ -717,7 +717,8 @@
           }
         }
       },
-      "weather_status": "unavailable"
+      "weather_status": "unavailable",
+      "description": "Finally an official sub-24"
     },
     {
       "id": "i198596659",
@@ -5639,7 +5640,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 75,
+      "steps": 13177,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -5683,7 +5684,7 @@
       "name": "3 x 1mi T",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 57,
+      "planned_tss": 47,
       "duration_hours": 0.81,
       "duration_formatted": "48m33s",
       "workout_summary": "10m | 3\u00d78m31s / 1m rec | 10m",
@@ -5735,7 +5736,7 @@
       "name": "3 x 1mi T",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 57,
+      "planned_tss": 47,
       "duration_hours": 0.81,
       "duration_formatted": "48m33s",
       "workout_summary": "10m | 3\u00d78m31s / 1m rec | 10m",
@@ -5786,7 +5787,7 @@
       "name": "3 x 1mi T",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 57,
+      "planned_tss": 47,
       "duration_hours": 0.81,
       "duration_formatted": "48m33s",
       "workout_summary": "10m | 3\u00d78m31s / 1m rec | 10m",
