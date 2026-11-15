@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:00:55.719485",
+  "generated_at": "2026-11-15T14:46:48.946507",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -579,6 +579,145 @@
           "avg_hr": 155,
           "max_hr": 155,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i210240186",
+      "date": "2026-11-15",
+      "type": "Run",
+      "name": "Belfast Festive 5K",
+      "interval_summary": [
+        "5x 4m32s 4:32",
+        "1x 14s 4:00"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "272s@239w95rpm",
+          "duration_secs": 280,
+          "avg_power": 225,
+          "max_power": 254,
+          "avg_hr": 175,
+          "max_hr": 188,
+          "avg_cadence": 97.181816,
+          "zone": 3,
+          "training_load": 7.8318424,
+          "decoupling": 8.991936
+        },
+        {
+          "type": "WORK",
+          "label": "272s@239w95rpm",
+          "duration_secs": 273,
+          "avg_power": 239,
+          "max_power": 251,
+          "avg_hr": 190,
+          "max_hr": 195,
+          "avg_cadence": 97.10256,
+          "zone": 3,
+          "training_load": 8.628148,
+          "decoupling": 0.8213302
+        },
+        {
+          "type": "WORK",
+          "label": "272s@239w95rpm",
+          "duration_secs": 271,
+          "avg_power": 241,
+          "max_power": 257,
+          "avg_hr": 180,
+          "max_hr": 193,
+          "avg_cadence": 95.918816,
+          "zone": 3,
+          "training_load": 8.636461,
+          "decoupling": 1.4974493
+        },
+        {
+          "type": "WORK",
+          "label": "272s@239w95rpm",
+          "duration_secs": 272,
+          "avg_power": 241,
+          "max_power": 283,
+          "avg_hr": 186,
+          "max_hr": 196,
+          "avg_cadence": 94.025734,
+          "zone": 3,
+          "training_load": 8.8128,
+          "decoupling": 10.782107
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_power": 231,
+          "max_power": 231,
+          "avg_hr": 195,
+          "max_hr": 195,
+          "avg_cadence": 93.0,
+          "zone": 4,
+          "training_load": 0.029788204
+        },
+        {
+          "type": "WORK",
+          "label": "272s@239w95rpm",
+          "duration_secs": 263,
+          "avg_power": 247,
+          "max_power": 279,
+          "avg_hr": 195,
+          "max_hr": 198,
+          "avg_cadence": 93.06464,
+          "zone": 4,
+          "training_load": 8.732899,
+          "decoupling": -4.0268593
+        },
+        {
+          "type": "WORK",
+          "label": "14s@259w96rpm",
+          "duration_secs": 14,
+          "avg_power": 259,
+          "max_power": 288,
+          "avg_hr": 197,
+          "max_hr": 198,
+          "avg_cadence": 95.53846,
+          "zone": 4,
+          "training_load": 0.5433679,
+          "decoupling": -2.2791429
+        }
+      ]
+    },
+    {
+      "activity_id": "i210227367",
+      "date": "2026-11-15",
+      "type": "Run",
+      "name": "Morning Run",
+      "interval_summary": [
+        "1x 7m43s 7:43",
+        "1x 6m52s 7:15"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "463s@140w82rpm",
+          "duration_secs": 463,
+          "avg_power": 140,
+          "max_power": 189,
+          "avg_hr": 150,
+          "max_hr": 170,
+          "avg_cadence": 82.065506,
+          "zone": 2,
+          "training_load": 5.4638267,
+          "decoupling": -1.5402566
+        },
+        {
+          "type": "WORK",
+          "label": "412s@154w87rpm",
+          "duration_secs": 412,
+          "avg_power": 154,
+          "max_power": 188,
+          "avg_hr": 163,
+          "max_hr": 173,
+          "avg_cadence": 86.805824,
+          "zone": 2,
+          "training_load": 5.507027,
+          "decoupling": 1.1259676
         }
       ]
     }
